@@ -1,0 +1,4 @@
+interface:
+  display_name: "机构次日进度检查"
+  short_description: "按客户昨日真实发布核对各机构多维表是否更新为已发布"
+  default_prompt: "Use $doubao-institution-publication-sync-audit to check whether institution Base progress was updated to 已发布 for yesterday's customer publications."
